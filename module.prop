@@ -1,0 +1,7 @@
+id=universalhide
+name=UniversalHide - Zygisk
+version=v3.1
+versionCode=31
+author=Temu
+description=Universal root/ROM/bootloader detection bypass
+minMagisk=26000
